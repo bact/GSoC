@@ -6,35 +6,33 @@ First and foremost we are a community dedicated to solving the issues and proble
 
 As part of this effort we have developed a set of collateral that can be used:
 
-  - [License List and Short Identifiers](https://spdx.org/using-spdx)
-  - [SPDX Specification for generating SPDX Documents in multiple formats](https://spdx.org/using-spdx)
-  - [A set of basic tools for working with SPDX Documents](https://spdx.org/tools)
-  - [License Identifiers in source](https://spdx.org/using-spdx)
+- [License List and Short Identifiers](https://spdx.org/using-spdx)
+- [SPDX Specification for generating SPDX Documents in multiple formats](https://spdx.org/using-spdx)
+- [A set of basic tools for working with SPDX Documents](https://spdx.org/tools)
+- [License Identifiers in source](https://spdx.org/using-spdx)
 
 ## Why choose an SPDX Project?
 
 Contributing to one of the SPDX projects below will provide a valuable contribution to developers and/or users of open source software. We believe you will find the projects both technically challenging and rewarding. In essence we believe you will be able to look back one day and I say I was part of that effort.
 
-  
-
-# Getting Involved
+## Getting Involved
 
 Beyond working with your mentor(s) we highly encourage students who select one of these projects to get involved with the SPDX community via our technical working group. Interaction with the technical team is primarily done via its mailing list and on gitter (see resources). There is however a weekly call you could join as well. .
 
 ## Resources
 
-  - [SPDX website](http://spdx.dev)
-  - [SPDX Specification](https://spdx.dev/use/specifications)
-  - [SPDX Tools webpage](https://spdx.dev/use/tools)
-  - [SPDX tech mailing list](https://lists.spdx.org/g/spdx-tech)
-
+- [SPDX website](http://spdx.dev)
+- [SPDX Specification](https://spdx.dev/use/specifications)
+- [SPDX Tools webpage](https://spdx.dev/use/tools)
+- [SPDX tech mailing list](https://lists.spdx.org/g/spdx-tech)
 
 Should you have questions please do not hesitate to contact one of the mentors directly.
 
+## Current project ideas
 
-## Current (2024) Project Ideas
-
-You can find the project ideas for this year's program [here](2024_ideas.md).
+<!--
+You can find the project ideas for this year's program [here]().
+-->
 
 ## Past projects and project ideas
 
@@ -42,6 +40,8 @@ SPDX has been participating in the Google Summer of Code program for a number of
 
 You can see the projects implemented and the project ideas published each year by looking at the corresponding files:
 
+- 2025 [projects](2025_projects.md) and [ideas](2025_ideas.md)
+- 2024 [ideas](2024_ideas.md)
 - 2023 [projects](2023_projects.md) and [ideas](2023_ideas.md)
 - 2022 [projects](2022_projects.md) and [ideas](2022_ideas.md)
 - 2021 [projects](2021_projects.md) and [ideas](2021_ideas.md)
@@ -49,4 +49,3 @@ You can see the projects implemented and the project ideas published each year b
 - 2019 [projects](2019_projects.md)
 - 2018 [projects](2018_projects.md)
 - 2017 [projects](2017_projects.md)
-
