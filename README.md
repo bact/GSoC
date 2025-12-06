@@ -11,13 +11,13 @@ As part of this effort we have developed a set of collateral that can be used:
 - [A set of basic tools for working with SPDX Documents](https://spdx.org/tools)
 - [License Identifiers in source](https://spdx.org/using-spdx)
 
-## Why choose an SPDX Project?
+## Why choose an SPDX project?
 
 Contributing to one of the SPDX projects below will provide a valuable contribution to developers and/or users of open source software. We believe you will find the projects both technically challenging and rewarding. In essence we believe you will be able to look back one day and I say I was part of that effort.
 
-## Getting Involved
+## Getting involved
 
-Beyond working with your mentor(s) we highly encourage students who select one of these projects to get involved with the SPDX community via our technical working group. Interaction with the technical team is primarily done via its mailing list and on gitter (see resources). There is however a weekly call you could join as well. .
+Beyond working with your mentor(s) we highly encourage students who select one of these projects to get involved with the SPDX community via our technical working group. Interaction with the technical team is primarily done via its mailing list and on gitter (see resources). There is however a weekly call you could join as well.
 
 ## Resources
 
